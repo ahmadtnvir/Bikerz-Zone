@@ -7,7 +7,8 @@
 }
 
 header,
-main {
+main,
+.footer {
   width: 90%;
   margin: 0 auto;
 }
